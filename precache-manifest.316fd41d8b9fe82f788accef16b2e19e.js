@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "921874882ee891318e7628dd4656f9c8",
+    "revision": "1eba3fbe485797033f32b52d43d9328a",
     "url": "/c4g-magic-bible/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/c4g-magic-bible/static/css/2.0939e70c.chunk.css"
   },
   {
-    "revision": "f661244663872abe4937",
+    "revision": "b7d1915e8686d00d68f8",
     "url": "/c4g-magic-bible/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/c4g-magic-bible/static/js/2.174ce873.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f661244663872abe4937",
-    "url": "/c4g-magic-bible/static/js/main.7bb356f9.chunk.js"
+    "revision": "b7d1915e8686d00d68f8",
+    "url": "/c4g-magic-bible/static/js/main.15ec06d4.chunk.js"
   },
   {
     "revision": "326b42990b1b4d9aca50",

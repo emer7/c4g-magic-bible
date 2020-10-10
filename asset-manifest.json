@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/c4g-magic-bible/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/c4g-magic-bible/static/js/main.7bb356f9.chunk.js",
-    "main.js.map": "/c4g-magic-bible/static/js/main.7bb356f9.chunk.js.map",
+    "main.js": "/c4g-magic-bible/static/js/main.15ec06d4.chunk.js",
+    "main.js.map": "/c4g-magic-bible/static/js/main.15ec06d4.chunk.js.map",
     "runtime-main.js": "/c4g-magic-bible/static/js/runtime-main.2d181715.js",
     "runtime-main.js.map": "/c4g-magic-bible/static/js/runtime-main.2d181715.js.map",
     "static/css/2.0939e70c.chunk.css": "/c4g-magic-bible/static/css/2.0939e70c.chunk.css",
     "static/js/2.174ce873.chunk.js": "/c4g-magic-bible/static/js/2.174ce873.chunk.js",
     "static/js/2.174ce873.chunk.js.map": "/c4g-magic-bible/static/js/2.174ce873.chunk.js.map",
     "index.html": "/c4g-magic-bible/index.html",
-    "precache-manifest.1115fc282979fe0f1c10919c3e6b66db.js": "/c4g-magic-bible/precache-manifest.1115fc282979fe0f1c10919c3e6b66db.js",
+    "precache-manifest.316fd41d8b9fe82f788accef16b2e19e.js": "/c4g-magic-bible/precache-manifest.316fd41d8b9fe82f788accef16b2e19e.js",
     "service-worker.js": "/c4g-magic-bible/service-worker.js",
     "static/css/2.0939e70c.chunk.css.map": "/c4g-magic-bible/static/css/2.0939e70c.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/c4g-magic-bible/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.0939e70c.chunk.css",
     "static/js/2.174ce873.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7bb356f9.chunk.js"
+    "static/js/main.15ec06d4.chunk.js"
   ]
 }
